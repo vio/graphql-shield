@@ -1,5 +1,5 @@
 {
-  "name": "graphql-shield",
+  "name": "@vio/graphql-shield",
   "description": "GraphQL Server permissions as another layer of abstraction!",
   "version": "7.6.5",
   "author": "Matic Zavadlal <matic.zavadlal@gmail.com>",

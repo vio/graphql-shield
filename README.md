@@ -1,10 +1,12 @@
+> This repository is a fork of [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield). The published [npm package](https://www.npmjs.com/package/@vio/graphql-shield?activeTab=versions) adds support for Node.js 22+.
+
+---
+
 <p align="center"><img src="media/shield.jpg" width="300"/></p>
 
 # graphql-shield
 
-[![CircleCI](https://circleci.com/gh/maticzav/graphql-shield/tree/master.svg?style=shield)](https://circleci.com/gh/maticzav/graphql-shield/tree/master)
-[![codecov](https://codecov.io/gh/maticzav/graphql-shield/branch/master/graph/badge.svg)](https://codecov.io/gh/maticzav/graphql-shield)
-[![npm version](https://badge.fury.io/js/graphql-shield.svg)](https://badge.fury.io/js/graphql-shield)
+[![npm version](https://badge.fury.io/js/@vio/graphql-shield.svg)](https://badge.fury.io/js/@vio/graphql-shield)
 [![Backers on Open Collective](https://opencollective.com/graphql-shield/backers/badge.svg)](#backers)[![Sponsors on Open Collective](https://opencollective.com/graphql-shield/sponsors/badge.svg)](#sponsors)
 
 > GraphQL Server permissions as another layer of abstraction!
